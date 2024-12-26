@@ -1,0 +1,4 @@
+C:\Users\ftyy2\scripts\C#scripts\final exam\final exam\obj\Debug\net8.0\final exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftyy2\scripts\C#scripts\final exam\final exam\obj\Debug\net8.0\final exam.AssemblyInfoInputs.cache
+C:\Users\ftyy2\scripts\C#scripts\final exam\final exam\obj\Debug\net8.0\final exam.AssemblyInfo.cs
+C:\Users\ftyy2\scripts\C#scripts\final exam\final exam\obj\Debug\net8.0\final exam.csproj.CoreCompileInputs.cache
